@@ -1,5 +1,8 @@
 
 
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=DayXL&label=Profile%20Views&color=6&icon=9&pretty=false" />
+</a>
 
 <p align="center">
   <a href="https://github.com/DayXL">
@@ -8,7 +11,6 @@
 </p>
 
 
-
-[![](https://visitcount.itsvg.in/api?id=DayXL&label=Profile%20Views&color=6&icon=9&pretty=false)](https://visitcount.itsvg.in)
-<img align="center" alt="Day-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">       
-<img align="center" alt="Day-C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  
+  
+<img align="center" alt="Day-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">       <img align="center" alt="Day-C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
